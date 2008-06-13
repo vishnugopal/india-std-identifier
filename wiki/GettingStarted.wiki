@@ -1,0 +1,8 @@
+#summary How to Get Started with india-std-identifier
+
+  # [https://mobme.svn.beanstalkapp.com/mobme Checkout] the source.
+  # Install a web server, php bindings, ruby and rubygems
+  # Install the gems activesupport (part of rails) and hpricot
+  # Install the ruby thrift bindings (get thrift from http://developers.facebook.com/thrift/ and inside the archive the lib/rb directory, run: _ruby setup.rb_)
+  # Run the ruby server: _ruby std_server.rb_
+  # Point web server to std_client.php
